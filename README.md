@@ -196,10 +196,3 @@ Structured Data Layer (JSON Databases)
 
 - Team: MindMappers
 
----
-
-## 👨‍💻 Contributors
-- Backend API Engineer (SHREYA N. MAHAJAN)
-- Backend AI Engineer (PRATHMESH P. BHOYAR)
-- Frontend UI/UX Engineer (VEDANT P. ZOD)
-- Frontend Integration Engineer (KAUSTUBH K. SAURKAR)
