@@ -195,4 +195,3 @@ Structured Data Layer (JSON Databases)
   APEX AI Hackathon 2026
 
 - Team: MindMappers
-
